@@ -1,0 +1,104 @@
+[
+  {
+    "first": "pedro",
+    "last": "szekely",
+    "alternate": "pedro szekely"
+  },
+  {
+    "first": "pedro",
+    "last": "szekely",
+    "alternate": [
+      "pedro szekely",
+      "pedro a szekely"
+    ]
+  },
+  {
+    "first": [
+      "pedro"
+    ],
+    "last": "szekely",
+    "alternate": "pedro szekely"
+  },
+  {
+    "first": "pedro",
+    "last": [
+      "szekely"
+    ],
+    "alternate": "pedro szekely"
+  },
+  {
+    "first": [
+      "pedro"
+    ],
+    "last": [
+      "szekely"
+    ],
+    "alternate": "pedro szekely"
+  },
+  {
+    "first": "pedro",
+    "last": "szekely",
+    "alternate": [
+      "pedro szekely",
+      "szekely, pedro"
+    ]
+  },
+  {
+    "first": [
+      "pedro",
+      "peter"
+    ],
+    "last": "szekely",
+    "alternate": "pedro szekely"
+  },
+  {
+    "first": "pedro",
+    "last": "szekely",
+    "alternate": {
+      "first:": "pedro",
+      "last": "szekely"
+    }
+  },
+  {
+    "first": "pedro",
+    "last": "szekely",
+    "alternate": [
+      {
+        "first:": "pedro",
+        "last": "szekely"
+      }
+    ]
+  },
+  {
+    "first": "pedro",
+    "last": "szekely",
+    "alternate": [
+      {
+        "first:": "pedro",
+        "last": "szekely"
+      },
+      {
+        "first:": "peter",
+        "last": "szekely"
+      }
+    ]
+  },
+  {
+    "first": "pedro",
+    "last": "szekely",
+    "alternate": [
+      {
+        "first:": [
+          "pedro"
+        ],
+        "last": "szekely"
+      },
+      {
+        "first:": "peter",
+        "last": [
+          "szekely"
+        ]
+      }
+    ]
+  }
+]
